@@ -1,6 +1,7 @@
 from matplotlib import pyplot as plt
 
 # print(plt.style.available)
+# plt.style.use('fivethirtyeight')
 plt.xkcd()
 
 age_x = [25,26,27,28,29,30,31,32,32,33,34]
